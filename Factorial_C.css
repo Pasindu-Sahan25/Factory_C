@@ -1,9 +1,9 @@
 body {
-    background-color: #e74f4f;
+    background-color: #222831;
 }
 
 #h1 {
-    color: teal;
+    color: #03C4A1;
     font-family: fantasy;
     -webkit-text-stroke-color: black;
     -webkit-text-stroke-width: 1px;
@@ -13,7 +13,7 @@ label {
     width: 5cm;
     height: 1cm;
     display: inline-block;
-    color: crimson;
+    color: #FFF338;
     font-family: fantasy;
     font-size: 22px;
     -webkit-text-stroke-width: 1px;
@@ -31,13 +31,13 @@ input {
     width: 2cm;
     height: 1cm;
     font-size: 15px;
-    color: rgb(141, 2, 255);
+    color: #DA0037;
 }
 
 #oup {
     font-family: fantasy;
     font-size: 25px;
-    color: forestgreen;
+    color: #F21170;
     -webkit-text-stroke-color: black;
     -webkit-text-stroke-width: 1px;
 }
@@ -47,7 +47,7 @@ input {
     overflow-x: auto;
     font-size: 20px;
     font-family: fantasy;
-    color: forestgreen;
+    color: #F21170;
     -webkit-text-stroke: black;
     -webkit-text-stroke-width: 1px;
 }
